@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Pro3_W5_Menu"
